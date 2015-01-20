@@ -1,0 +1,15 @@
+{
+  "name": "zuul-mocha-should",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "browser": "zuul --local 8090 --ui mocha-bdd -- tests.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "should": "^4.6.0",
+    "zuul": "^1.16.4"
+  }
+}

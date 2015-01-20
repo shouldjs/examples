@@ -1,0 +1,19 @@
+{
+  "name": "karma-browserify-mocha-should",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/karma/bin/karma start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "karma": "^0.12.31",
+    "karma-browserify": "^2.0.0",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-mocha": "^0.1.10",
+    "mocha": "^2.1.0",
+    "should": "^4.6.1"
+  }
+}
