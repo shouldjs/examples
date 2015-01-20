@@ -8,7 +8,7 @@ First do in root of repo:
 npm i
 ```
 
-## Most simple way - include all <script>'s
+## Most simple way - include all script's
 
 Look in `simple-mocha-should` directory to look on most basic way to run tests with `mocha` and `should`. To repeat such steps:
 
